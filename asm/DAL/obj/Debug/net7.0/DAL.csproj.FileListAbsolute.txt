@@ -1,0 +1,12 @@
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\VTC Academy\final project2\asm\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\VTC Academy\final project2\asm\DAL\bin\Debug\net7.0\DAL.dll
+D:\VTC Academy\final project2\asm\DAL\bin\Debug\net7.0\DAL.pdb
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\DAL.dll
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\DAL.pdb
+D:\VTC Academy\final project2\asm\DAL\obj\Debug\net7.0\ref\DAL.dll
